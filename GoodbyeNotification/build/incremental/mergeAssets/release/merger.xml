@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/snodnipper/AndroidStudioProjects/press-delete-notification/GoodbyeNotification/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/snodnipper/AndroidStudioProjects/press-delete-notification/GoodbyeNotification/src/release/assets" />
+    </dataSet>
+
+</merger>

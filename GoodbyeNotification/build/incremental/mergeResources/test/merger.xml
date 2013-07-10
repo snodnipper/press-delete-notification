@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/snodnipper/AndroidStudioProjects/press-delete-notification/GoodbyeNotification/src/instrumentTest/res" />
+        <source path="/Users/snodnipper/AndroidStudioProjects/press-delete-notification/GoodbyeNotification/build/res/rs/test" />
+    </dataSet>
+
+</merger>
