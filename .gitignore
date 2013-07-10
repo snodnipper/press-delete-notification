@@ -22,3 +22,7 @@ local.properties
 # Gradle temporary files
 .gradle
 GoodbyeNotification/build/*
+
+# Ignore idea files
+.idea/
+*.iml
